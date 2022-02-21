@@ -1,0 +1,37 @@
+[
+    {
+      "id": 1,
+      "BooksofName": "Stories of Courage and Conviction in 21st century India",
+      "Author": "Supriya Paul",
+      "Booksofid": "333-6",
+      "email": "jenny.@email.com"
+    },
+    {
+      "id": 2,
+      "BooksofName": "Languages of Truth: Essays 2003-2020",
+      "Author": "Salman Rushdie",
+      "Booksofid": "011-",
+      "email": "je.warren@email.com"
+    },
+    {
+      "id": 3,
+      "BooksofName": "All Roads Lead North: Nepal’s Turn To China",
+      "Author": "Amish Raj Mulmi",
+      "Booksofid": "788",
+      "email": "tony.frank@email.com"
+    },
+    {
+      "id": 4,
+      "BooksofName": "1232km: The Long Journey Home",
+      "Author": "Vinod Kapri",
+      "Booksofid": "0d",
+      "email": "jere.clark@email.com"
+    },
+    {
+      "id": 5,
+      "BooksofName": "Skill It, Kill It",
+      "Author": "Ronnie Screwvala",
+      "Booksofid": "3231-962-7516",
+      "email": "raymon.edwards@email.com"
+    }
+  ]
